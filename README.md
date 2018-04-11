@@ -1,4 +1,3 @@
-# Calendar
 import java.util.Scanner;
 public class Calendar {
 		// TODO Auto-generated method stub
